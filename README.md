@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shoaibakhtar05
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Web Fronend
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning Web development Frontend.
 - 💞️ I’m looking to collaborate on Software
-- 📫 How to reach me ...
+- 📫 I am also working on Java Spring Boot. 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
